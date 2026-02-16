@@ -3,9 +3,7 @@
 This RAG application allows you upload any pdf file and the Gemma LLM would analyse the pdf, act as you personal assistant to answer various
 questions with regard to the pdf.
 
-## DEMO
-
-https://github.com/saketh1999/gemma_pfd_rag/assets/48793201/373f0384-6d87-46e5-aeba-aa4462d668c9
+## 
 
 
 ## More About Gemma
